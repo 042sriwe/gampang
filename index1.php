@@ -1364,7 +1364,7 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/ss4.png" group-title="Olahraga", SPORTSTARS 4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1436,13 +1436,14 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="13298" tvg-name="RCTI" tvg-logo="https://i.imgur.com/B70b3Jt.png" group-title="Nasional",Mnctv
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnctv" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png"  group-title="Nasional", Mnctv
 https://testfunctionlive.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8|referer=https://www.visionplus.id
 
+#EXTINF:-1 tvg-id="13345" tvg-name="GTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png" group-title="Nasional", GTV 1
+https://testfunctionlive.mncnow.id/live/eds/GTV/sa_hls/GTV.m3u8|referer=https://www.visionplus.id
 
-
-
+#EXTINF:-1 tvg-id="13298" tvg-name="RCTI" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="Nasional", RCTI
+https://testfunctionlive.mncnow.id/live/eds/RCTI-HD2/sa_hls/RCTI-HD2.m3u8|referer=https://www.visionplus.id
 
 
 
