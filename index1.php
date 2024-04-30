@@ -1440,11 +1440,16 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 https://testfunctionlive.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="13345" tvg-name="GTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png" group-title="Nasional", GTV 1
-https://testfunctionlive.mncnow.id/live/eds/GTV/sa_hls/GTV.m3u8|referer=https://www.visionplus.id
+#https://testfunctionlive.mncnow.id/live/eds/GTV/sa_hls/GTV.m3u8|referer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-id="13298" tvg-name="RCTI" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="Nasional", RCTI
-https://testfunctionlive.mncnow.id/live/eds/RCTI-HD2/sa_hls/RCTI-HD2.m3u8|referer=https://www.visionplus.id
-
+#https://testfunctionlive.mncnow.id/live/eds/RCTI-HD2/sa_hls/RCTI-HD2.m3u8|referer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 
