@@ -640,13 +640,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be6135dc5905/20200924043115.png",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
+#https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be6135dc5905/20200924043115.png",TVRI word
+#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://hometv.pw/logo/lokal/tvri.png" group-title="NASIONAL",TVRI word
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be6135dc5905/20200924043115.png",TVRI sport
+#EXTINF:-1 tvg-id="INFO" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvrisport.png" ch-number="92",TVRI SPORT
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
 https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvrisport.m3u8
 
