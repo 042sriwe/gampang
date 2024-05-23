@@ -478,6 +478,9 @@ ch.close();
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://i.ibb.co/CJJXkV9/sks.png" group-title="INFORMASI",SKS TV (BUKAN UNTUK DIPERJUAL BELIKAN)
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YQV6sfZ/sukis3.png"" group-title="INFORMASI",  Subscribe Youtube "ONGIS-MBOIS" 
+https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+
 
 ==========================================================NASIONAL===================================================================================
 
@@ -1328,16 +1331,19 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-025/stream.mpd
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8|origin=https://claplivehdplay.ru/
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8|origin=https://claplivehdplay.ru/
+https://bq32.short.gy/offline_vaathala?channelId=286&uid=4944&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8|origin=https://claplivehdplay.ru/
+https://bq32.short.gy/offline_vaathala?channelId=281&uid=4944&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Racing
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
