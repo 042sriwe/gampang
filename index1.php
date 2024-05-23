@@ -478,7 +478,7 @@ ch.close();
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://i.ibb.co/CJJXkV9/sks.png" group-title="INFORMASI",SKS TV (BUKAN UNTUK DIPERJUAL BELIKAN)
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YQV6sfZ/sukis3.png"" group-title="INFORMASI",  Subscribe Youtube "ONGIS-MBOIS" 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YQV6sfZ/sukis3.png"" group-title="INFORMASI", Gratis...tis...tis
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 
 
