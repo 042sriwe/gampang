@@ -1358,8 +1358,10 @@ https://bq32.short.gy/offline_vaathala?channelId=281&uid=4944&deviceMac=00:1A:79
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="SPORTS", H premier 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=tuyullxt@.ts
- 
+#https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=tuyullxt@.ts
+https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554968extension=ts&play_shareext@hubpremier1.ts
+#http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186600&extension=ts&play_shareext@truesport1TH.ts
+
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/p10h2rwi6tcjev8j1ra9a/Hpremier-2.jpg?rlkey=wq2tssaa0b3sf96en6mlhpyym&dl=0" group-title="SPORTS", H premier 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032528&extension=ts&play_token=tuyullxt@.ts
