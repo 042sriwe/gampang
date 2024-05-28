@@ -511,7 +511,8 @@ https://cors-proxy.elfsight.com/https://s.id/gtv_play_shareext-xs
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|referrer=https://www.indihometv.com/ 
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="INDONESIA", Indosiar 2
-https://s.id/indosiar_play_shareext-xs
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/indosiar_play_shareext-xs
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="INDONESIA", Indosiar 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ligabri1.m3u8
@@ -520,14 +521,16 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ligabri1.m3u8
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="INDONESIA", MNCTV 2
-https://s.id/mnctv_play_shareext-xs
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/mnctv_play_shareext-xs
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.imgur.com/nb9Ik4Z.png" group-title="INDONESIA", NET. 1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd 
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.imgur.com/nb9Ik4Z.png" group-title="INDONESIA", NET. 2
-https://s.id/netHD_shareext-ts
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/netHD_shareext-ts
 
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.imgur.com/un8daQS.png" group-title="INDONESIA", RCTI 1
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
@@ -535,7 +538,8 @@ https://s.id/netHD_shareext-ts
 https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.imgur.com/un8daQS.png" group-title="INDONESIA", RCTI 2
-https://s.id/rcti_play_shareext-ts
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/rcti_play_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="INDONESIA" tvg-id="SCTV" tvg-name="SCTV",SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -548,27 +552,31 @@ https://s.id/sctvHD_shareext-xs
 https://arjuna.trans7.co.id/Trans7-L1v3stream/index.fmp4.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XHn6JG6.png" group-title="INDONESIA", Trans 7 2
-https://s.id/trans7HD_shareext-xs
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/trans7HD_shareext-xs
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/ggsrreJ.png" group-title="INDONESIA",TransTV HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|referrer=https://www.indihometv.com/ 
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/ggsrreJ.png" group-title="INDONESIA",TransTV HD 2
-https://s.id/transtvHD_shareext-xs
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/transtvHD_shareext-xs
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/tq4taTY.png",TVOne 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/tq4taTY.png",TVOne 2
-https://s.id/tvoneHD_shareext-xs
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/tvoneHD_shareext-xs
 
 #EXTINF:0 group-title="INDONESIA" tvg-logo="https://i.imgur.com/6mKllwF.png", RTV 1
 http://210.210.155.37/uq2663/h/h10/index.m3u8
 
 #EXTINF:0 group-title="INDONESIA" tvg-logo="https://i.imgur.com/6mKllwF.png", RTV 2
-https://s.id/rtvHD_shareext-xs
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/rtvHD_shareext-xs
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/GelhQN9.png" group-title="INDONESIA", Kompas TV 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -577,7 +585,8 @@ https://s.id/rtvHD_shareext-xs
 https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd 
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/GelhQN9.png" group-title="INDONESIA", Kompas TV 2
-https://s.id/kompastvHD_shareext-xs
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/kompastvHD_shareext-xs
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/d9SDpUU.png",Metro TV 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -586,7 +595,8 @@ https://s.id/kompastvHD_shareext-xs
 https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd 
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/d9SDpUU.png",Metro TV 2
-https://s.id/metrotvHD_shareext-xs
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/metrotvHD_shareext-xs
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/PAy1NQ4.png",iNews 1
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
@@ -594,7 +604,8 @@ https://s.id/metrotvHD_shareext-xs
 https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=inews
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/PAy1NQ4.png",iNews 2
-https://s.id/inews_play_shareext-xs
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/inews_play_shareext-xs
 
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="INDONESIA",TVRI Nasional 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -631,7 +642,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="INDONESIA", MOJI 2
-https://s.id/mojiHD_shareext-xs
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/mojiHD_shareext-xs
 
 
 
