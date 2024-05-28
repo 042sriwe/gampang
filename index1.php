@@ -1350,14 +1350,99 @@ https://bq32.short.gy/offline_vaathala?channelId=281&uid=4944&deviceMac=00:1A:79
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8|origin=https://claplivehdplay.ru/
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="SPORTS", H premier 1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/p10h2rwi6tcjev8j1ra9a/Hpremier-2.jpg?rlkey=wq2tssaa0b3sf96en6mlhpyym&dl=0" group-title="SPORTS", H premier 2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032528&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%203.jpg?raw=true" group-title="SPORTS", H premier 3
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032527&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/zd8dm9zsld3cb4akfw8cp/Hpremier-4.jpg?rlkey=jkwht84yszoh44sxooh3h21jl&dl=0" group-title="SPORTS", H premier 4
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032526&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%205.jpg?raw=true" group-title="SPORTS", H premier 5
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032525&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%206.jpg?raw=true" group-title="SPORTS", H premier 6
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032524&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%207.jpg?raw=true" group-title="SPORTS", H premier 7
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032523&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 1 Premier
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 2
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 3
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032477&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 4 Tennis
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032476&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 5
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032475&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 6 Tennis
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 7
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/zd8pjjkgbaidwpx/images%20%288%29.jpeg" group-title="SPORTS2",beIN Sports Premium 1
+http://shareext@theking365tv.ws/play/live.php?mac=00:1A:79:5c:f4:67&stream=45706&extension=ts&play_token=shareext@.ts
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/zd8pjjkgbaidwpx/images%20%288%29.jpeg" group-title="SPORTS2",beIN Sports Premium 2
+http://shareext@theking365tv.ws/play/live.php?mac=00:1A:79:5c:f4:67&stream=45708&extension=ts&play_token=shareext@.ts
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/zd8pjjkgbaidwpx/images%20%288%29.jpeg" group-title="SPORTS2",beIN Sports Premium 3
+#http://shareext@theking365tv.ws/play/live.php?mac=00:1A:79:5c:f4:67&stream=45710&extension=ts&play_token=shareext@.ts
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/yoozpupco3ul21t/images%20%285%29.jpeg" group-title="SPORTS2",beIN Sports 1 English
+https://sc2022.stream-link.org/tv2306.php?id=s15
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/yoozpupco3ul21t/images%20%285%29.jpeg" group-title="SPORTS2",beIN Sports 2 English
+https://sc2022.stream-link.org/tv2306.php?id=s16
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/yoozpupco3ul21t/images%20%285%29.jpeg" group-title="SPORTS2",beIN Sports 3 English
+https://sc2022.stream-link.org/tv2306.php?id=s17
 
-
-
-
-
-
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORTS2",SuperSport Premier League 
+ 
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORTS2",SuperSport Football
+ 
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORTS2",SuperSport LaLiga
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORTS2",SuperSport Motorsports
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="SPORTS2",Arena Sport 1
+ 
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="SPORTS2",Arena Sport 2
+ 
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="SPORTS2",Arena Sport 3
+ 
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="SPORTS2",Arena Sport 4
+ 
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="SPORTS2",Arena Sport 5
+ 
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/x502xa7pvjj6wt9/arena1premium.png" group-title="SPORTS2",Arena Premium 1
+ 
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/yd5zpcflrc6s214/arena2premium.png" group-title="SPORTS2",Arena Premium 2
+ 
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/4zinxnfky1ad141/arena3premium.png" group-title="SPORTS2",Arena Premium 3
+ 
 
 
 #================================WarKop DKI================================#
