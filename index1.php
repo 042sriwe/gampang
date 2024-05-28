@@ -1358,60 +1358,60 @@ https://bq32.short.gy/offline_vaathala?channelId=281&uid=4944&deviceMac=00:1A:79
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="SPORTS", H premier 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554968&extension=ts&play_shareext@Hpremier1.ts
+https://cors-proxy.elfsight.com/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350557&extension=ts&play_shareext@Hpremier1.ts
 #http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186600&extension=ts&play_shareext@truesport1TH.ts
 
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/p10h2rwi6tcjev8j1ra9a/Hpremier-2.jpg?rlkey=wq2tssaa0b3sf96en6mlhpyym&dl=0" group-title="SPORTS", H premier 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554967&extension=ts&play_shareext@Hpremier2.ts
+https://cors-proxy.elfsight.com/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350558&extension=ts&play_shareext@Hpremier2.ts
  
 #EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%203.jpg?raw=true" group-title="SPORTS", H premier 3
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554966&extension=ts&play_shareext@Hpremier3.ts
+https://cors-proxy.elfsight.com/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350559&extension=ts&play_shareext@Hpremier3.ts
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/zd8dm9zsld3cb4akfw8cp/Hpremier-4.jpg?rlkey=jkwht84yszoh44sxooh3h21jl&dl=0" group-title="SPORTS", H premier 4
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554965&extension=ts&play_shareext@Hpremier4.ts
+#https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554965&extension=ts&play_shareext@Hpremier4.ts
  
 #EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%205.jpg?raw=true" group-title="SPORTS", H premier 5
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032525&extension=ts&play_token=tuyullxt@.ts
+#https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032525&extension=ts&play_token=tuyullxt@.ts
  
 #EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%206.jpg?raw=true" group-title="SPORTS", H premier 6
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032524&extension=ts&play_token=tuyullxt@.ts
+#https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032524&extension=ts&play_token=tuyullxt@.ts
  
 #EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%207.jpg?raw=true" group-title="SPORTS", H premier 7
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032523&extension=ts&play_token=tuyullxt@.ts
+#https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032523&extension=ts&play_token=tuyullxt@.ts
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://gampang@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554624&extension=ts&play_token=gampang@.ts
+https://cors-proxy.elfsight.com/http:///shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554624&extension=ts&play_shareext@nowsport1.ts
 
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
+https://cors-proxy.elfsight.com/http:///shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554623&extension=ts&play_shareext@nowsport2.ts
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 3
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032477&extension=ts&play_token=tuyullxt@.ts
+https://cors-proxy.elfsight.com/http:///shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554622&extension=ts&play_shareext@nowsport3.ts
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 4
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032476&extension=ts&play_token=tuyullxt@.ts
+https://cors-proxy.elfsight.com/http:///shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554621&extension=ts&play_shareext@nowsport4.ts
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 5
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032475&extension=ts&play_token=tuyullxt@.ts
+https://cors-proxy.elfsight.com/http:///shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554620&extension=ts&play_shareext@nowsport5.ts
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 6
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
+#https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 7
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
+#https://cors-proxy.elfsight.com/http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/zd8pjjkgbaidwpx/images%20%288%29.jpeg" group-title="SPORTS",beIN Sports Premium 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -1516,9 +1516,11 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333576&extension=ts&play_shareext@0ptus1.ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/2Sk50CJ/optus1.jpg" group-title="SPORTS",optus 2
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333575&extension=ts&play_shareext@0ptus2.ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/2Sk50CJ/optus1.jpg" group-title="SPORTS",optus 3
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333574&extension=ts&play_shareext@0ptus3.ts
 
 
