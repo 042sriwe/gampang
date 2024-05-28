@@ -1359,7 +1359,6 @@ https://bq32.short.gy/offline_vaathala?channelId=281&uid=4944&deviceMac=00:1A:79
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="SPORTS", H premier 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://cors-proxy.elfsight.com/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350557&extension=ts&play_shareext@Hpremier1.ts
-#http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186600&extension=ts&play_shareext@truesport1TH.ts
 
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/p10h2rwi6tcjev8j1ra9a/Hpremier-2.jpg?rlkey=wq2tssaa0b3sf96en6mlhpyym&dl=0" group-title="SPORTS", H premier 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -1387,15 +1386,15 @@ https://cors-proxy.elfsight.com/http://shareext@89.45.13.153:25461/play/live.php
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http:///shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554624&extension=ts&play_shareext@nowsport1.ts
+https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554624&extension=ts&play_shareext@Nowsport1.ts
 
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http:///shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554623&extension=ts&play_shareext@nowsport2.ts
+https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554623&extension=ts&play_shareext@nowsport2.ts
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 3
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http:///shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554622&extension=ts&play_shareext@nowsport3.ts
+https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554622&extension=ts&play_shareext@nowsport3.ts
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 4
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -1403,7 +1402,7 @@ https://cors-proxy.elfsight.com/http:///shareext@ledir.thund.re/play/live.php?ma
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 5
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http:///shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554620&extension=ts&play_shareext@nowsport5.ts
+https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554620&extension=ts&play_shareext@nowsport5.ts
  
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="SPORTS", NOWSPORTS 6
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
