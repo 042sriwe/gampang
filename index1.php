@@ -1272,28 +1272,33 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="Dazn Sports",DAZN 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-045/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-045/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="Dazn Sports",DAZN 1 DE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-017/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zVyXvjM/dazn2.png" group-title="Dazn Sports",DAZN 2 DE 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-018/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="Dazn Sports",DAZN 1 ES 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-037/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zVyXvjM/dazn2.png" group-title="Dazn Sports",DAZN 2 ES 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-038/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="Dazn Sports",DAZN F1 
@@ -4207,509 +4212,146 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/649eaeb5d940521074d
 #KODIPROP:inputstream.adaptive.license_key=e39669df79af516ab548849fad0f184f:6e95d850d7cf4759beb6375630da8022
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3cd382cbea8a6a4e000046_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
+<=========================================== Malaysia ==========================================>
+#EXTINF:-1 tvg-id="" tvg-name="TV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/320px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia", TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=5|Referer="https://rtm-player.glueapi.io/"
 
-=====================================================================lk21==============================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="TV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/440px-TV2_%28Malaysia%29_logo.svg.png" group-title="Malaysia", TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1|Referer="https://rtmklik.rtm.gov.my"
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=5|Referer="https://rtm-player.glueapi.io/"
 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-control-zeta-2023-lk21-d21.jpg",Control Zeta (2023)
-https://ss309.dominofile.com/stream/7/8B/fsm55g0QfefjbmYdMD7wOUFNVX1SrQbK3ll/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-rabiye-kurnaz-vs-george-w-bush-2022-lk21-d21.jpg",Rabiye Kurnaz vs. George W. Bush (2022)
-https://ss342.fileonsky.com/stream/A/0A/pr69QmJTQMTS1gdLh8hbV8DwBbaoRkklPiH/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-freelance-2023-lk21-d21.jpg",Freelance (2023)
-https://ss369.muletten.com/stream/9/BD/4wXzlk9KGsa4A1uhuhM4dMTVed3NPZ5HFP0/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/09/film-teenage-mutant-ninja-turtles-mutant-mayhem-2023-lk21-d21.jpg",Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
-https://ss373.teifanc.com/stream/1/F7/kxUfHrvEbXjYyapkhjOR8AFbdjdhPIJKoPp/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-creation-of-the-gods-i-kingdom-of-storms-2023-lk21-d21.jpg",Creation of the Gods I: Kingdom of Storms (2023)
-https://ss160.handonet.com/stream/F/7E/RYEgqtMuQ9hozVN1SLq9luJ1FENT30rTz7U/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-bright-lights-starring-carrie-fisher-and-debbie-reynolds-2017-lk21-d21.jpg",Bright Lights: Starring Carrie Fisher and Debbie Reynolds (2017)
-https://ss34.guronam.com/stream/8/7F/Z7pvuxbPIpf2unpmZAdsUoSsNtepu4wclL8/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-hustle-flow-2005-lk21-d21.jpg",Hustle & Flow (2005)
-https://ss368.fantasab.com/stream/B/71/lhHMUWk0TKHOGxCh6iaYNL2TKQQ8gP1hSA3/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/11/film-six-by-sondheim-2013-lk21-d21.jpg",Six by Sondheim (2013)
-https://ss328.techsalar.com/stream/9/6C/8dTVGtmnR9TmcJYyGKSeIOJ95EghDH5DcBk/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-praise-this-2023-lk21-d21.jpg",Praise This (2023)
-https://ss38.jupshare.com/stream/3/71/L6hGz4LpB1WEHLE3g0veRbcCYqnRxIlpF7l/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-the-eight-mountains-2022-lk21-d21.jpg",The Eight Mountains (2022)
-https://ss364.filesbus.com/stream/A/39/m3St0pIDxLeFhLXU76y9tbAENJ56hGYamGa/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-the-queenstown-kings-2023-lk21-d21.jpg",The Queenstown Kings (2023)
-https://ss352.ructop.com/stream/0/C9/18yQC9jpeU2fu4rqANCY6NSF1zlaIInK8eX/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/11/film-all-time-high-2023-lk21-d21.jpg",All-Time High (2023)
-https://ss315.filebagz.com/stream/0/E1/mwsOEZkMTPtq5sZx00guETQtaiE1QuOdkBL/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-vikings-blood-lust-2023-lk21-d21.jpg",Vikings: Blood Lust (2023)
-https://ss311.gigazfile.com/stream/E/B7/D0NMKzgiwaXaQdU2OQPZlOBjawqehDIpwjl/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/11/film-iraivan-2023-lk21-d21.jpg",Iraivan (2023)
-https://ss363.trendyfile.com/stream/C/CB/8fXzXKJICLCl0KNnyb137ZIyAnv518x9fYN/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-maxines-baby-the-tyler-perry-story-2023-lk21-d21.jpg",Maxine’s Baby: The Tyler Perry Story (2023)
-https://ss347.sofarfile.com/stream/2/58/30Utkx7UjJ9zcfx8kWp7MMntYP0XeVqr9ca/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-sukhee-2023-lk21-d21.jpg",Sukhee (2023)
-https://ss27.samnye.com/stream/E/D1/HXd6jaubswWEnaUDgaQT1Bd9btzxOHfXvdP/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-black-noise-2023-lk21-d21.jpg",Black Noise (2023)
-https://ss31.filetypo.com/stream/0/52/G70OcIJY75UbHw4F7rhC04ob203VmPFk34H/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-in-love-and-deep-water-2023-lk21-d21.jpg",In Love and Deep Water (2023)
-https://ss35.coopfilez.com/stream/3/DC/X5bHU0HYDHH8Tvh2F6Vd2qH9n6QkRwAi4Iq/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-skanda-the-attacker-2023-lk21-d21.jpg",Skanda: The Attacker (2023)
-https://ss361.mantechz.com/stream/4/A8/JzciwNGJEfaU89jMLUQuNdx8v44V4FGL277/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-best-christmas-ever-2023-lk21-d21.jpg",Best. Christmas. Ever! (2023)
-https://ss36.jumshare.com/stream/6/65/ifWgAF3E6qAKeA4oKjv0HPOyJ3NJLcy1QWf/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/02/film-the-five-devils-2022-lk21-d21.jpg",The Five Devils (2022)
-https://ss328.techsalar.com/stream/C/A0/ZZvyOl1nc2AEh2P6QbzlTdGCrfmq07NRLK6/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-fuzzy-head-2023-lk21-d21.jpg",Fuzzy Head (2023)
-https://ss368.fantasab.com/stream/6/49/aQ0bnp0NKgYxQb8HqpPLo9SV1E6x9cCbpqc/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-apurva-2023-lk21-d21.jpg",Apurva (2023)
-https://ss334.macquen.com/stream/4/A1/LBSE0zr0seXyfFLMamHDWZTdvcsExV3WPHd/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/11/film-pippa-2023-lk21-d21.jpg",Pippa (2023)
-https://ss373.teifanc.com/stream/B/30/aYVhVGuFBhyJAMWFKC4z1DvwZ55YmWFA9Dt/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-kane-2023-lk21-d21.jpg",Kane (2023)
-https://ss34.guronam.com/stream/2/57/2ErauCATPkwMjen7rgsmzWELOLeT5ifPX4r/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-matt-rife-natural-selection-2023-lk21-d21.jpg",Matt Rife: Natural Selection (2023)
-https://ss41.bendevu.com/stream/B/F1/LR5ZXfjNT3wK3boiFvwKPnm2LZMKyhn0TMu/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-believer-2-2023-lk21-d21.jpg",Believer 2 (2023)
-https://ss358.manznew.com/stream/1/12/ct2aZ1cuF5bWYSeXJYPIoPsASANJtwq3iRE/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-expend4bles-2023-lk21-d21.jpg",Expend4bles (2023)
-https://ss353.newnuscoxc.com/stream/D/64/2H6YIrOlyoroRw0qAx5pSAjQGrC48w1crIf/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/11/film-outlaw-johnny-black-2023-lk21-d21.jpg",Outlaw Johnny Black (2023)
-https://ss190.mayssin.com/stream/C/25/e4lgH19CstJMJ50BqQL1osTgRiNZMwnyNp5/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/08/film-what-comes-around-2023-lk21-d21.jpg",What Comes Around (2023)
-https://ss327.safilery.com/stream/3/A3/MePEyYxuCvDMyiYBhPvaxXL6cJUOykcJYQw/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-snake-hotel-2023-lk21-d21.jpg",Snake Hotel (2023)
-https://ss55.monobep.com/stream/A/37/e8wLuQwd9KJeTat54zeR3sCcAf6jBDefg8E/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-around-the-world-in-80-days-2021-lk21-d21.jpg",Around the World in 80 Days (2021)
-https://ss306.montfile.com/stream/4/F0/gp5EXmM2cAp6dZAp1EkxnT63dI0m3U98b87/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-fingernails-2023-lk21-d21.jpg",Fingernails (2023)
-https://ss368.fantasab.com/stream/7/AE/2Z6LP8MCGtsw9fpdFFZEkZm177rUjpR2vUt/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-the-creator-2023-lk21-d21.jpg",The Creator (2023)
-https://ss57.tradeonsky.com/stream/C/7F/cHbRp7VA2ffpapLnGWmYBpqkON5tdJR1xua/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-seventeen-power-of-love-2022-lk21-d21.jpg",Seventeen Power of Love (2022)
-https://ss62.saoauong.com/stream/2/5B/n5Uo2YajPZpAtTwWbhJdvKFpQy0xCmBNl5Z/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-the-deer-2018-lk21-d21.jpg",The Deer (2018)
-https://ss20.suptrain.com/stream/0/88/mvTefR7QYZboVgDzEakNMLEzSH9GEJZaIsU/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-echo-2023-lk21-d21.jpg",Echo (2023)
-https://ss20.suptrain.com/stream/9/A7/qSJZOM5KImuFs3KgwqsjIj9EhYPatCYislO/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-valatty-2023-lk21-d21.jpg",Valatty (2023)
-https://ss20.suptrain.com/stream/F/75/DVJUAojuhb9jbSdVOd6fDlz3mh8s6eK81Gq/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-she-shoots-straight-1990-lk21-d21.jpg",She Shoots Straight (1990)
-https://ss211.ezupshare.com/stream/1/02/zxtXep1pu8CC34Xc3TzUaljW4rEge3ucv3y/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/11/film-the-bell-keeper-2023-lk21-d21.jpg",The Bell Keeper (2023)
-https://ss309.dominofile.com/stream/A/27/odDFoDb7jJUj5UMA1wTTEqbNFQJqRLFa4Io/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/11/film-oracle-2023-2-lk21-d21.jpg",Oracle (2023)
-https://ss59.upnrapid.com/stream/E/E3/DcH48uvzIclWjDhBVsD2TmymHIFvKb0nYHU/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-exodus-2023-lk21-d21.jpg",Exodus (2023)
-https://ss61.uploadxu.com/stream/0/80/VPzN0sbChbNbIXu0AQwLPdgkiQQPiYZ33tN/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-rumble-through-the-dark-2023-lk21-d21.jpg",Rumble Through the Dark (2023)
-https://ss362.tinusoud.com/stream/0/88/TlEaBQqA8McLFPwIRGBkjqWBfP3WHAQM1Q2/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-forever-2023-lk21-d21.jpg",Forever (2023)
-https://ss62.saoauong.com/stream/C/1D/k3QlxerSKk9rmXqh3xqXsU7WlsveoBEGx5n/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-clinic-2023-lk21-d21.jpg",Clinic (2023)
-https://ss350.maybtuon.com/stream/3/57/A4TeXKqDVm8xxQ9siXOlVWm2GLY3YhGnuE6/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-dumb-money-2023-lk21-d21.jpg",Dumb Money (2023)
-https://ss337.junauak.com/stream/B/B5/u65LzuBfmHx6vlhpSiIblIeLWZ8Qi1FBr1E/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-minda-lalari-2023-lk21-d21.jpg",Minda Lalari (2023)
-https://ss283.technunz.com/stream/2/92/fRncjgpoZwLqXILQnrfJN5PWjWdnwQYKtSk/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-hurricane-season-2023-lk21-d21.jpg",Hurricane Season (2023)
-https://ss349.jamsiu.com/stream/9/DC/ipOtU8OOlcJlDWAjsTUsA5WRv0I5IX0Hpyy/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-vendetta-road-2023-lk21-d21.jpg",Vendetta Road (2023)
-https://ss319.kataznet.com/stream/C/3B/SegrMe6qH2YIMHQ0A3pbuzCpuXTJo2c4F6c/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-quiz-lady-2023-lk21-d21.jpg",Quiz Lady (2023)
-https://ss319.kataznet.com/stream/E/A5/4FcRkaWFFYyOs1iErECdK9POaDVcFYjjHds/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-ransomed-2023-lk21-d21.jpg",Ransomed (2023)
-https://ss283.technunz.com/stream/B/B1/T8tsVJMYpie9xRtwDWWYeSbjtqFwvPHSdQW/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-dieced-2023-lk21-d21.jpg",Die’ced (2023)
-https://ss335.codosto.com/stream/3/23/5rNSePaZZR1Gt69IBhRHCZKFRWkHt5PLpZ6/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-the-killer-2023-lk21-d21.jpg",The Killer (2023)
-https://ss309.dominofile.com/stream/0/A1/eR8mwAXjswwUAXYojGla79dr2tSANdR2cK5/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-black-mask-2-city-of-masks-2002-lk21-d21.jpg",Black Mask 2: City of Masks (2002)
-https://ss301.tuimuontai.com/stream/9/91/0mR8mIvQr7ZhGVTCjjoveWYK65QZJDglxAl/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/11/film-the-last-rifleman-2023-lk21-d21.jpg",The Last Rifleman (2023)
-https://ss184.litvp.com/stream/4/27/upMfYolpOejSN0n1ZBigYsrYt7eGFxNiKRT/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-the-marvels-2023-lk21-d21.jpg",The Marvels (2023)
-https://ss355.todaycny.com/stream/5/59/Nk9J1cAQyzW8jQBuWnlpNUB6V7CM422kfdj/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-foe-2023-lk21-d21.jpg",Foe (2023)
-https://ss232.youtudown.com/stream/0/29/9YesDvhGM2kV32gl2eJSmtuNwVQjpcODK6V/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-oppenheimer-2023-lk21-d21.jpg",Oppenheimer (2023)
-https://ss361.mantechz.com/stream/9/67/1NyRBua3TYG8kYhozTwBQsfpFcCsdYIy1sM/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-aakhri-deal-2013-lk21-d21.jpg",Aakhri Deal (2013)
-https://ss296.suprenews.com/stream/B/C9/kFgrE7FSRAt8klNGHiirPDTwBnXyzp5zjTw/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-bts-yet-to-come-in-cinemas-2023-lk21-d21.jpg",BTS: Yet to Come in Cinemas (2023)
-https://ss314.monefiles.com/stream/9/9F/RjTH7i9mtsJnSw5tfTSYkqQ90uaosUtOAVO/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-the-kill-room-2023-lk21-d21.jpg",The Kill Room (2023)
-https://ss190.mayssin.com/stream/E/28/awyxBiruy5uaTh9yVJ0SHUqUJSk6x7JGT7i/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-hell-house-llc-origins-the-carmichael-manor-2023-lk21-d21.jpg",Hell House LLC Origins: The Carmichael Manor (2023)
-https://ss55.monobep.com/stream/A/05/98ZKctVWBH5pZekEDgY1fXHCYvJLs2k6Onj/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-ashes-of-time-1994-lk21-d21.jpg",Ashes of Time (1994)
-https://ss345.mauobzw.com/stream/5/5E/jFKkivEHZBHW1Fgtmgp5hRkb9tKvCd4WSTt/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-tatsama-tadbhava-2023-lk21-d21.jpg",Tatsama Tadbhava (2023)
-https://ss321.vibasnet.com/stream/B/E0/W3IV8J6VXREwISfLoQ70mnm1eSkeY7mpa1m/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-are-you-ok-baby-2023-lk21-d21.jpg",Are You Ok Baby? (2023)
-https://ss160.handonet.com/stream/4/C1/NMmyeianZXwKUdemzdBruJAnR1GjqEmyVwq/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/11/film-sucking-diesel-1970-lk21-d21.jpg",Sucking Diesel (1970)
-https://ss295.techmarkz.com/stream/C/8A/FPXbrQfP6v1mifRuCusvfrjQbtGelpWus5n/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-the-eye-of-silence-2016-lk21-d21.jpg",The Eye of Silence (2016)
-https://ss300.hanabake.com/stream/4/C7/2uwhYJAHVG96IjymsST61M0MPTHjt0llXJt/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-6ne-maili-2018-lk21-d21.jpg",6ne Maili (2018)
-https://ss337.junauak.com/stream/6/9F/9USba4BWPeSLziuKNF4r9M95v6O0F388nZK/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-bring-her-to-me-2023-lk21-d21.jpg",Bring Her to Me (2023)
-https://ss304.filesfarm.com/stream/8/C3/vPAMMEqGwV9mF4MPDxpSrUkPdJReydqwCLO/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/11/film-cyberbunker-the-criminal-underworld-2023-lk21-d21.jpg",Cyberbunker: The Criminal Underworld (2023)
-https://ss297.highinews.com/stream/7/38/koXhQfU80krevOdko6C6ANQwLycQoYVOowC/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/09/film-gran-turismo-2023-lk21-d21.jpg",Gran Turismo (2023)
-https://ss297.highinews.com/stream/9/B8/i4RuZJOzjZQCqVhi0pSlNc7cBjSFUr2f9Vg/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-la-ruche-2022-lk21-d21.jpg",La ruche (2022)
-https://ss317.letsharez.com/stream/8/C4/mpdA80dMu67adRMswZoi0N7N1aqUUokCjbQ/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-the-case-of-the-four-demon-coffins-2023-lk21-d21.jpg",The Case of the Four Demon Coffins (2023)
-https://ss293.sunseacf.com/stream/D/9F/3S7OeUEwEsljOmE6qC9ic2rTJvC56oYGnwj/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-the-nun-ii-2023-lk21-d21.jpg",The Nun II (2023)
-https://ss324.tenisound.com/stream/E/AD/Zs8Aofc6bFMrPpl3gaMJ6RR8UV2FdsG7hKD/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-the-equalizer-3-2023-lk21-d21.jpg",The Equalizer 3 (2023)
-https://ss332.imgboxs.com/stream/B/47/0jJIFYRfTQ5Ry6IeVnB4ipBDrmrLTN6kIJO/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg",Guardians of the Galaxy Vol. 3 (2023)
-https://ss244.katetynet.com/stream/9/33/CjCjTUAZkAEpkull3TVXzkBtCtEKlkwo98m/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/09/film-blue-beetle-2023-lk21-d21.jpg",Blue Beetle (2023)
-https://ss353.newnuscoxc.com/stream/0/BB/iMK3NKpgoVb6Czp3ynIqj49HgznPO9HSoW1/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-the-elevator-2023-lk21-d21.jpg",The Elevator (2023)
-https://ss320.bigbaznet.com/stream/2/F0/vbWuVXPsPgb6Oh2u2yGzUXYoabVX5P89znL/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-hells-coming-for-you-2023-lk21-d21.jpg",Hell’s Coming for You (2023)
-https://ss109.eliamu.com/stream/1/9E/ZB0ue3ubi0w90R3Hoixnj4LEe17RCexhb3t/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-lego-marvel-avengers-code-red-2023-lk21-d21.jpg",Lego Marvel Avengers: Code Red (2023)
-https://ss09.fupimg.com/stream/0/77/Av2CBFTRmmUFeWOC5JbhPq4g6CYzugk6HX3/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/11/film-vindicta-2023-lk21-d21.jpg",Vindicta (2023)
-https://ss190.mayssin.com/stream/7/26/ZjLRyaS3FIY6YZSyA5DACEFYq726STVVowF/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-lunastajat-2022-lk21-d21.jpg",Lunastajat (2022)
-https://ss365.thiennq.com/stream/C/DD/9jjEko3fsOnOTBTh3G7QBOhfloGuOTK8uNG/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-18-11-2014-lk21-d21.jpg",18.11 (2014)
-https://ss319.kataznet.com/stream/D/95/7MbbLxzFc9KRmnjwXRkd46jQWi1vUWszzjQ/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-nasrani-2007-lk21-d21.jpg",Nasrani (2007)
-https://ss34.guronam.com/stream/0/26/D6ira5w8Z0ZojmoNFYaoH6je2A89JhEKaU2/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/11/film-the-subtle-art-of-not-giving-a-fck-2023-lk21-d21.jpg",The Subtle Art of Not Giving a F*ck (2023)
-https://ss09.fupimg.com/stream/9/3B/c86IM4y93Ug7lCiyX0UV4gKDHDbqgWpRnSm/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-butchers-crossing-2023-lk21-d21.jpg",Butcher’s Crossing (2023)
-https://ss359.sanyno.com/stream/9/91/s3yImMGIvv6YmqJJepSzHk0lDsiutqD388i/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-chandramukhi-2-2023-lk21-d21.jpg",Chandramukhi 2 (2023)
-https://ss314.monefiles.com/stream/2/8B/j6avEvJUaQFeqkqkhY58LaQz6tztzL1MOZK/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-do-you-love-me-2023-lk21-d21.jpg",Do You Love Me? (2023)
-https://ss349.jamsiu.com/stream/0/B6/DZQ2WGJYzZoWlLZ21Tu1EB2mUnYfc3ylom7/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-my-worst-neighbor-2023-lk21-d21.jpg",My Worst Neighbor (2023)
-https://ss316.magizfile.com/stream/F/85/mT9Sa9HiAdTjqTlkmYd7gH1gnpGGEQ318Z5/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-deep-fear-2023-lk21-d21.jpg",Deep Fear (2023)
-https://ss310.gigafilez.com/stream/D/2B/9WIdKaoNyzb1sR2nDc1DSxQABVYQ6OKSxe5/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-yaaro-2023-lk21-d21.jpg",Yaaro (2023)
-https://ss311.gigazfile.com/stream/B/B7/nq5acaU3B9TKIT9sGapDxp79DMrYiDrvlCN/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-ang-manananggal-na-nahahati-ang-puso-2021-lk21-d21.jpg",Ang manananggal na nahahati ang puso (2021)
-https://ss288.quenedi.com/stream/7/55/1a0q7c03UdGICSXTGwP3F5PHMQAXYNTSi28/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/11/film-pebbles-2021-lk21-d21.jpg",Pebbles (2021)
-https://ss09.fupimg.com/stream/3/2C/DadhN5ekhjRouqqy7lI478HXXzGrVnrE0S5/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-jawan-2023-lk21-d21.jpg",Jawan (2023)
-https://ss362.tinusoud.com/stream/2/98/PNERiulsGWvB1uXBIKY4LS6auq8JbBIlvCc/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-mercy-road-2023-lk21-d21.jpg",Mercy Road (2023)
-https://ss289.nihaony.com/stream/1/95/56Q2iyD17i3ItZOdz8MxXwY0ItEhmA28Pcv/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-three-extremes-2004-lk21-d21.jpg",Three… Extremes (2004)
-https://ss55.monobep.com/stream/0/5E/xerTU7RXfMxecNSyz06V8sj8hM1JBWDa34x/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/02/film-the-point-men-2023-lk21-d21.jpg",The Point Men (2023)
-https://ss285.vibanes.com/stream/A/47/L3VxGzxThEdrk1tGRbVAZclHb2plcSnm5gI/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-haddi-2023-lk21-d21.jpg",Haddi (2023)
-https://ss09.fupimg.com/stream/9/9F/k415SyO4plF1CMAwh3kyfe9vLA10YMoDoyd/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-mujrim-1989-lk21-d21.jpg",Mujrim (1989)
-https://ss306.montfile.com/stream/2/12/Jzu35qdxb19C4UfrHJsTKnithURr1ndvM9p/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/11/film-a-light-never-goes-out-2023-lk21-d21.jpg",A Light Never Goes Out (2023)
-https://ss316.magizfile.com/stream/B/D7/5tVKeGVSuuZBHakv5nz6mg2B9Yz4a67y0Ex/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-the-y-2023-lk21-d21.jpg",The Y (2023)
-https://ss324.tenisound.com/stream/0/94/l2q91OeY63Il9F3TFQndepbJPVmhOJM81Hh/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-matti-katha-2023-lk21-d21.jpg",Matti Katha (2023)
-https://ss287.vitunews.com/stream/E/CD/WpRCQ3K1T4dkvvcsKdHcdLHhRe4hG5ljNGP/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-red-sandal-wood-2023-lk21-d21.jpg",Red Sandal Wood (2023)
-https://ss364.filesbus.com/stream/4/A1/ijXHtvhNOqJC7YYaMlVVBNkCiMOpGtqQzcj/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-case-30-2023-lk21-d21.jpg",Case 30 (2023)
-https://ss348.shinauon.com/stream/9/26/SOo6aqljuyKNCLmpQf9PFdp51uYLsgXezmn/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/11/film-metronom-2022-lk21-d21.jpg",Metronom (2022)
-https://ss344.croissanty.com/stream/C/B9/3X54vpJx4IuE5205qWRoW2ciuQO2ojuMHoT/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/11/film-a-murder-erased-2022-lk21-d21.jpg",A Murder Erased (2022)
-https://ss316.magizfile.com/stream/7/3A/EMib9noD9ALO3TOShY19mUU9AYVaSUHN1Jt/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-quan-dao-the-journey-of-a-boxer-2020-lk21-d21.jpg",Quan Dao: The Journey of a Boxer (2020)
-https://ss43.paristitu.com/stream/8/C9/MW78L54QVddh8ozGfUGiqd7NnMBJCVHL6cO/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/11/film-in-the-shadows-2023-lk21-d21.jpg",In the Shadows (2023)
-https://ss344.croissanty.com/stream/D/02/PK57ZPUPmx9nHq77Z9gRtG8chu4f3F6UXO7/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/09/film-retribution-2023-lk21-d21.jpg",Retribution (2023)
-https://ss190.mayssin.com/stream/C/F4/Op4RKqtFlzh6M2LQtlaOmToeKAo4XaV197x/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-the-retirement-plan-2023-2-lk21-d21.jpg",The Retirement Plan (2023)
-https://ss304.filesfarm.com/stream/2/F3/6AJKcZ4Cm51WhQNwZTDzcscJK7U1mZkniEw/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-wingwomen-2023-lk21-d21.jpg",Wingwomen (2023)
-https://ss285.vibanes.com/stream/6/75/aUGdP2Xo4OW43033qSvbRMOvf8GQrknHxaa/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-locked-in-2023-lk21-d21.jpg",Locked In (2023)
-https://ss286.vibanews.com/stream/1/08/tcXRNOaEJCJKhVRDxAhHRpbOgCa5WkxTV0x/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/11/film-birthright-outlaw-2023-lk21-d21.jpg",Birthright Outlaw (2023)
-https://ss334.macquen.com/stream/6/06/lgv593LOV5ER27KegMEL6nqJK3uY7CxR2uI/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-the-ship-show-2023-lk21-d21.jpg",The Ship Show (2023)
-https://ss190.mayssin.com/stream/A/AF/5aMURFzMCBILP1d6sPenxxPqZIvcGQAY6L1/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/11/film-still-human-2018-lk21-d21.jpg",Still Human (2018)
-https://ss326.tylenews.com/stream/E/B3/hgZqwiIjPymuZlzEca90s2QKvwtf6iulwJa/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-oracle-2023-lk21-d21.jpg",Oracle (2023)
-https://ss42.snapwu.com/stream/1/3E/SSud9eXFtpjOwMBZFWDxGauFC163FMySZRP/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/11/film-oracle-2023-lk21-d21.jpg",Oracle (2023)
-https://ss42.snapwu.com/stream/1/3E/SSud9eXFtpjOwMBZFWDxGauFC163FMySZRP/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/11/film-a-haunting-in-venice-2023-lk21-d21.jpg",A Haunting in Venice (2023)
-https://ss153.netmang.com/stream/E/34/elViDxtW3KT9Gyg8YyoqGy3Zz7ei1yX3gFs/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/11/film-dust-and-ashes-2022-lk21-d21.jpg",Dust and Ashes (2022)
-https://ss351.gomuany.com/stream/E/63/KBUaMO1mc2t5wgNf3ise1ad9XUfViKitS3L/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/09/film-king-of-killers-2023-lk21-d21.jpg",King of Killers (2023)
-https://ss349.jamsiu.com/stream/5/27/Cx61S4xRPwsh9NiYO6EAWufdLAAiRo45eNU/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-sick-girl-2023-lk21-d21.jpg",Sick Girl (2023)
-https://ss324.tenisound.com/stream/E/89/CxkJfiqDlbxx2aiaELEWd2uIPMAP0P8qcbF/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-when-evil-lurks-2023-lk21-d21.jpg",When Evil Lurks (2023)
-https://ss306.montfile.com/stream/4/B2/figqWAz0oqwYvyzKy582SSGdqZqDuO7q7Az/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-hell-of-the-screaming-undead-2023-lk21-d21.jpg",Hell of the Screaming Undead (2023)
-https://ss285.vibanes.com/stream/0/F0/FO7sVrlqX4awIhnfzTLwnQI3DQj7dxqNXAP/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-boudica-queen-of-war-2023-lk21-d21.jpg",Boudica: Queen of War (2023)
-https://ss290.valybay.com/stream/A/CF/cQ1PupwrwPCDsjTYboqQFyDh0pGfmaHQHeA/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-the-abode-2023-lk21-d21.jpg",The Abode (2023)
-https://ss315.filebagz.com/stream/3/D3/onmKKVPp2m97jb7fDNZvmdcXE8AsiiIDopJ/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-fog-city-2023-lk21-d21.jpg",Fog City (2023)
-https://ss81.thibogu.com/stream/7/D8/BYdOEKfMKLB2sTJ8J3iFdIKCXGcUTpXUNpc/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-grand-guignol-2022-lk21-d21.jpg",Grand Guignol (2022)
-https://ss26.bakernay.com/stream/0/05/Py05x4IdsXX2jUw49QebNEQJLgumHFNf0yi/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-into-the-abyss-2023-lk21-d21.jpg",Into the Abyss (2023)
-https://ss299.flyzbox.com/stream/0/1A/RPL0xaJESeJ5sHEF6CqP3ZB98jblzfbC0hP/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-five-nights-at-freddys-2023-lk21-d21.jpg",Five Nights at Freddy’s (2023)
-https://ss347.sofarfile.com/stream/B/F6/Sx2Qc2I894PBFBlBuPZ7myeq2cfRqHaCgwd/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-appendage-2023-lk21-d21.jpg",Appendage (2023)
-https://ss348.shinauon.com/stream/3/B4/3zoZW2O8kNZeMrJJw4edC693W7wywGpe1ff/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-yellow-door-90s-lo-fi-film-club-2023-lk21-d21.jpg",Yellow Door: ’90s Lo-fi Film Club (2023)
-https://ss360.saoponew.com/stream/5/82/5Zj3mzBIpyt4PCr8F3GorA3UI6lNNMmXZ5R/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-sister-death-2023-lk21-d21.jpg",Sister Death (2023)
-https://ss319.kataznet.com/stream/1/3A/2Y9HMdlw4knsYAkVddoiYvkxolXQXotWtsd/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-pain-hustlers-2023-lk21-d21.jpg",Pain Hustlers (2023)
-https://ss343.squaresfile.com/stream/B/31/YuMDLs3FYXPT5HlQR7SRFLWCbTsbnnOQGm6/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-the-bad-seed-returns-2022-lk21-d21.jpg",The Bad Seed Returns (2022)
-https://ss322.mundiiz.com/stream/4/C7/Q1E2wCCZ3V7lXjfEsy2IbPFjzWIH7KMBVr9/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-my-year-of-dicks-2023-lk21-d21.jpg",My Year of Dicks (2023)
-https://ss363.trendyfile.com/stream/D/F5/kBonk6iLUCBdP3ZkJJSUvVSspYGArfQuir3/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-dangerous-waters-2023-lk21-d21.jpg",Dangerous Waters (2023)
-https://ss362.tinusoud.com/stream/0/67/rubJHeOdQDaL41Kx8AlY9lKTDkjbQZqDgVQ/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-onefour-against-all-odds-2023-lk21-d21.jpg",OneFour: Against All Odds (2023)
-https://ss295.techmarkz.com/stream/8/C0/3ZEFWxS5TzEmi0Pdy70UevkzyYnAn5oCbW5/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-long-live-love-2023-lk21-d21.jpg",Long Live Love! (2023)
-https://ss308.extrafilez.com/stream/A/DF/ldR1TdsTVXBlXDV87Z9CJIipqYufzdsXnJz/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-the-cheating-game-2023-lk21-d21.jpg",The Cheating Game (2023)
-https://ss317.letsharez.com/stream/9/99/cj6McAE2rkc6fKnx0yY0R7LnpmKLHYLP4G8/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-the-royal-hotel-2023-lk21-d21.jpg",The Royal Hotel (2023)
-https://ss153.netmang.com/stream/1/73/KqErMLASfbWCRfBRKwygqykZfuF2Ubo9y8I/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-doraemon-the-movie-nobitas-sky-utopia-2023-lk21-d21.jpg",Doraemon the Movie: Nobita’s Sky Utopia (2023)
-https://ss362.tinusoud.com/stream/D/8B/vndxhJz8mGBcqcxmIUx9hHbQDj0oOpc1FU7/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-shrapnel-2023-lk21-d21.jpg",Shrapnel (2023)
-https://ss319.kataznet.com/stream/7/76/VXbfj6aX38WFltrvT6p1JmgJAOsTGQXbyva/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-the-after-2023-lk21-d21.jpg",The After (2023)
-https://ss321.vibasnet.com/stream/F/75/gPwwEgVy8aXMkFYo0rAuCO36q1c8Mna6BV0/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-what-the-waters-left-behind-scars-2023-lk21-d21.jpg",What the Waters Left Behind: Scars (2023)
-https://ss318.hugozfile.com/stream/B/22/T9vyVfVUtS0N10pG9emRuorxezGKyoDqe6h/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-the-exorcist-believer-2023-lk21-d21-1.jpg",The Exorcist: Believer (2023)
-https://ss312.tiurnews.com/stream/7/D4/lwangVYryLdIMbd2sU69W1TgdNxNamFWRaB/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-kaddha-chitra-lk21-d21.jpg",Kaddha Chitra (2023)
-https://ss318.hugozfile.com/stream/1/95/yd3IXOk0PSRK8tOwGK72pROGfAxI4ReScT0/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-if-you-were-the-last-2023-lk21-d21.jpg",If You Were the Last (2023)
-https://ss328.techsalar.com/stream/A/E3/qaXN8CFI9zldRshb7oXn8RKHz7Cm8zUep3j/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-mortal-kombat-legends-cage-match-2023-lk21-d21.jpg",Mortal Kombat Legends: Cage Match (2023)
-https://ss319.kataznet.com/stream/6/68/s9XVhoRSxRk5zsggjGdGf6iXvyZYgPZka8u/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-mistake-2023-lk21-d21.jpg",Mistake (2023)
-https://ss344.croissanty.com/stream/6/9A/vmjEu0R2J93AVNDDS4Kcrs8lbojAtkLx4RU/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-the-crusade-2021-lk21-d21.jpg",The Crusade (2021)
-https://ss288.quenedi.com/stream/A/C5/sqZKlrG7oNdxAFNGUODSPo8LlFHvShxWuuD/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-mia-and-the-dragon-princess-2023-lk21-d21.jpg",Mia and the Dragon Princess (2023)
-https://ss283.technunz.com/stream/B/3D/QmpRYkoqtPHiZymkaftC0f3xJNGwV0CSTSr/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-happy-halloween-scooby-doo-2020-lk21-d21.jpg",Happy Halloween, Scooby-Doo! (2020)
-https://ss279.abcnowz.com/stream/8/59/9cs9dvd4WnZTRcRDVJrFudVUMgzwHWXg7wk/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-trick-or-treat-scooby-doo-2022-lk21-d21.jpg",Trick or Treat Scooby-Doo! (2022)
-https://ss315.filebagz.com/stream/F/74/iQsEuNzGKdkeyzPNNsyhwEIb4bhrEA2y10l/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-mat-tudung-begin-2023-lk21-d21.jpg",Mat Tudung Begin (2023)
-https://ss300.hanabake.com/stream/9/20/1IE9xxnDGsxiOPCrfJ7km3J5KxfuaUseEG9/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-the-legend-of-drona-2008-lk21-d21.jpg",The Legend of Drona (2008)
-https://ss280.abcnewza.com/stream/1/A4/QY0F7DbtFpR3ToN5koBPNiPRHIydGnYGCf1/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/08/film-meg-2-the-trench-2023-lk21-d21.jpg",Meg 2: The Trench (2023)
-https://ss34.guronam.com/stream/A/02/iFnhMOtSw7SVW3qSyE8SWnmAPh4ZRGGzjyQ/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-the-closed-door-2014-lk21-d21.jpg",The Closed Door (2014)
-https://ss353.newnuscoxc.com/stream/6/6D/ZnI5fp2acuUpOTreTqAqiCl3FtTAbQ1zA1K/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-two-wrongs-make-a-right-2017-lk21-d21.jpg",Two Wrongs Make a Right (2017)
-https://ss363.trendyfile.com/stream/E/E8/Zc1dbWpujOqQ4iaRAWrvUriIoBOABvLrH7s/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-one-second-2020-lk21-d21.jpg",One Second (2020)
-https://ss288.quenedi.com/stream/D/82/enrEN3xpiasKFLGY0xEyBmjUzlFe6ijMjcu/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/06/film-the-black-demon-2023-lk21-d21.jpg",The Black Demon (2023)
-https://ss159.guzinet.com/stream/4/40/1ZH15lJxHPUdBmJt3MSPZGlgivvZ6vXmLpZ/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-colors-1988-lk21-d21.jpg",Colors (1988)
-https://ss305.filezfarm.com/stream/F/51/EKEwykVlJMKZrqdk1h1ppHdSv4l0hwwqDxH/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-only-cloud-knows-2019-lk21-d21.jpg",Only Cloud Knows (2019)
-https://ss359.sanyno.com/stream/3/53/R96q5pr93JFfzDqqEoCO4D40GNde84ilGjo/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2017/04/film-butter-2011.jpg",Butter (2011)
-https://ss293.sunseacf.com/stream/E/A6/ulnADZnMMdvdGQcO5qsAM3OIFwMmMexWqku/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-follow-her-2022-lk21-d21.jpg",Follow Her (2022)
-https://ss34.guronam.com/stream/2/B1/eQs0xycEcslTgOc0jppfeoIkHLHQGUdK6Ue/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-cocaine-cougar-2023-lk21-d21.jpg",Cocaine Cougar (2023)
-https://ss279.abcnowz.com/stream/5/D4/M1rKUZRfqP95EqmxyZYdO7Xb0a9Jp8QuYop/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-machis-ki-dibiya-2020-lk21-d21.jpg",Machis ki Dibiya (2020)
-https://ss40.subwte.com/stream/3/2E/4Z03sRnLkwXdcvSMkV3HpLZso6Eq6tF53mg/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-penanggal-mak-kiah-2023-lk21-d21.jpg",Penanggal Mak Kiah (2023)
-https://ss279.abcnowz.com/stream/3/54/yeZQdhAByHb6hY6Ylzh4E8nCOetYXuAaXHt/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-my-shining-revenge-2023-lk21-d21.jpg",My Shining Revenge (2023)
-https://ss333.gomutrain.com/stream/F/08/BySwxLDfEigbUp3gjO2TVx8zkkxkLncennz/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-the-united-states-of-horror-chapter-2-2022-lk21-d21.jpg",The United States of Horror: Chapter 2 (2022)
-https://ss344.croissanty.com/stream/D/C1/ZaTcJJ6WfdJcqpfM0m5orCZ4Uc1upC1txfK/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-three-blind-mice-2023-lk21-d21.jpg",Three Blind Mice (2023)
-https://ss271.themoneet.com/stream/F/A2/JDGgQgUEl2zdPlqoFXjJR1562LgWfcRPnny/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-french-blood-3-mr-frog-2020-lk21-d21.jpg",French Blood 3 – Mr. Frog (2020)
-https://ss184.litvp.com/stream/F/9A/tosVaD4leXrvBGcvmwQjTnBUJBq0aMpdGPy/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-night-of-the-hunted-2023-lk21-d21.jpg",Night of the Hunted (2023)
-https://ss34.guronam.com/stream/F/C6/fMlsoXxsMvWXmhFvep8CGyRawLiZoXcgpK8/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-disco-inferno-2023-lk21-d21.jpg",Disco Inferno (2023)
-https://ss315.filebagz.com/stream/8/C4/ynH6RJ2FoEo2myRNh7488q7FFlpNrm2Fm49/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-flashback-2023-lk21-d21.jpg",Flashback (2023)
-https://ss299.flyzbox.com/stream/9/F4/PxPPvsHgRlh2Sx3IZbODyq3Sw2Zn1iWotP2/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-old-dads-2023-lk21-d21.jpg",Old Dads (2023)
-https://ss286.vibanews.com/stream/D/2C/bNOvwNEkRBCmyV8PXoC1sjC75dJ5IKY4qtK/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-kandasamys-the-baby-2023-lk21-d21.jpg",Kandasamys: The Baby (2023)
-https://ss104.muniade.com/stream/2/59/M4cVQwAXS2bPXYpJFyjEIbniedAFl0ZUfxi/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-the-other-zoey-2023-lk21-d21.jpg",The Other Zoey (2023)
-https://ss302.uptosharez.com/stream/7/86/ne7UShUxpxADBaXUkBXKpPukkwELiVw8gvZ/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-silver-dollar-road-2023-lk21-d21.jpg",Silver Dollar Road (2023)
-https://ss40.subwte.com/stream/5/87/SDTOOqCnmQpKk1ZS3MO12ljcmDC3rv9oaaS/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-kushi-2023-lk21-d21.jpg",Kushi (2023)
-https://ss286.vibanews.com/stream/1/DD/XelQImBGCakC28hrhguArEOntNyxpSlkk4G/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/08/film-the-last-voyage-of-the-demeter-2023-lk21-d21.jpg",The Last Voyage of the Demeter (2023)
-https://ss344.croissanty.com/stream/1/92/s5t0HZRLXeXO87W8OnNdp9XFMOVQ0YVVj9E/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-15-cameras-2023-lk21-d21.jpg",15 Cameras (2023)
-https://ss295.techmarkz.com/stream/2/2E/iarIUYs7WAz5fWAE38xmzNxTDQ2tzdbI0JD/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-they-wait-in-the-dark-2022-lk21-d21.jpg",They Wait in the Dark (2022)
-https://ss300.hanabake.com/stream/B/30/dRBoTXFhNdtyfvd1sUCK9p7hWHgX3GGzddx/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-red-white-brass-2023-lk21-d21.jpg",Red, White & Brass (2023)
-https://ss362.tinusoud.com/stream/B/E6/ot3bCwe8pngQMTyoTnaq5EUlWecCKEuC9uR/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-exile-2023-lk21-d21.jpg",Exile (2023)
-https://ss161.netbilu.com/stream/D/CA/5SWNwKjPcVdLfKCOUBJ1KirrkIvTu36SQfc/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-the-devil-on-trial-2023-lk21-d21.jpg",The Devil on Trial (2023)
-https://ss55.monobep.com/stream/0/F8/91LIo8KlcpgicNhs1W178cq3YQHCacCcTEY/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-strays-2023-lk21-d21.jpg",Strays (2023)
-https://ss310.gigafilez.com/stream/F/1B/VlZ4Ni0AwmYsZxgLeIayIps6NvZEaYgPwb3/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-feed-2022-lk21-d21.jpg",Feed (2022)
-https://ss293.sunseacf.com/stream/9/C8/d1nnZzQ8c67LDLHqGt8KG84cCQzUJjVPPZi/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-feed-2022-lk21-d21.jpg",Feed (2022)
-https://ss293.sunseacf.com/stream/9/C8/d1nnZzQ8c67LDLHqGt8KG84cCQzUJjVPPZi/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-herd-2023-lk21-d21.jpg",Herd (2023)
-https://ss329.sunsitech.com/stream/3/9A/97swtaNJfNu23imXlComVdGTclrtJca2Bch/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-outpost-2023-lk21-d21.jpg",Outpost (2023)
-https://ss290.valybay.com/stream/F/61/vQ02gYHX1tIrjRMiRlvA6Bjcr44wy9du4ps/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-dear-david-2023-lk21-d21.jpg",Dear David (2023)
-https://ss310.gigafilez.com/stream/8/9F/FPPHJUZKIncGMbbxm2C0Pc4pJXpZrHBB8IK/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-portraits-from-a-fire-2021-lk21-d21.jpg",Portraits from a Fire (2021)
-https://ss353.newnuscoxc.com/stream/E/20/KalTk40RYVzZokYGvWAB2RKPmiMJcHesU3n/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-tailor-2020-lk21-d21.jpg",Tailor (2020)
-https://ss314.monefiles.com/stream/D/22/t3wweLlRZt5iKVojqlApRf7R0kR0yo20Zgx/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-digital-village-2023-lk21-d21.jpg",Digital Village (2023)
-https://ss315.filebagz.com/stream/F/9A/HjViuaRC4W9xV5NFdmg7hGJcrUxhZmsV0Bm/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-the-great-indian-suicide-2023-lk21-d21.jpg",The Great Indian Suicide (2023)
-https://ss293.sunseacf.com/stream/5/F7/0asgI16wzPjkhlIFetsE2oG1ikG76XgRKCG/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-ab-tak-chhappan-2004-lk21-d21.jpg",Ab Tak Chhappan (2004)
-https://ss362.tinusoud.com/stream/7/6B/Wyax2stZmFatBjVm4kTdKnyqucNuJqSFUrE/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-mary-cherry-chua-2023-lk21-d21.jpg",Mary Cherry Chua (2023)
-https://ss314.monefiles.com/stream/C/C3/yA2Fu1sWLEIEykxalYWbveJlDn6bcEjGkR9/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-tufang-2023-lk21-d21.jpg",Tufang (2023)
-https://ss351.gomuany.com/stream/1/B3/4qnlFkrEHtD66EASB6k9N349xwhENYo9RID/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-king-of-kotha-2023-lk21-d21.jpg",King of Kotha (2023)
-https://ss289.nihaony.com/stream/2/A7/sbV5aYo8vKLBFFvejbqOa4Ls1wBfJezO0jA/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-scarygirl-2023-lk21-d21.jpg",Scarygirl (2023)
-https://ss346.skyofile.com/stream/9/F5/pU22zsGAN0PlfhoEgYRdu2ckKJr3pzpCfMZ/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-hong-kong-family-2022-lk21-d21.jpg",Hong Kong Family (2022)
-https://ss328.techsalar.com/stream/C/81/llrP5QaFUQzgRu3k1w7tJmLWCB23ReV6ZZe/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-dil-ne-jise-apna-kaha-2004-lk21-d21.jpg",Dil Ne Jise Apna Kaha (2004)
-https://ss285.vibanes.com/stream/D/BD/UOrImTdtH7EhHCxFESy9FMKbnZ9o5U1W7bC/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-3g-a-killer-connection-2013-lk21-d21.jpg",3G: A Killer Connection (2013)
-https://ss335.codosto.com/stream/D/DF/1yylrnzvnerD3hZ9uj9n5UYgZOI8u5sYKl6/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-in-the-fire-2023-lk21-d21.jpg",In the Fire (2023)
-https://ss24.titkiand.com/stream/F/7B/X8MzHT5meydVOug7xOM2K5eyypUbWwMuGuH/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/08/film-apaches-2023-lk21-d21.jpg",Apaches (2023)
-https://ss40.subwte.com/stream/7/C0/sz1SVLWi6YyU8UafCuVmm5z3Fx2bsu7HBsj/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-pink-moon-2022-lk21-d21.jpg",Pink Moon (2022)
-https://ss22.cudebo.com/stream/1/E1/OMNQe9bs7k22UJ7LPQ2svCl6GzDgFv6CqPc/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-camp-courage-2023-lk21-d21.jpg",Camp Courage (2023)
-https://ss317.letsharez.com/stream/6/31/lEaztmJIYVUJ5fMMZIcpwfTz5fqzwGfzpry/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-the-puppetman-2023-lk21-d21.jpg",The Puppetman (2023)
-https://ss82.filezpark.com/stream/8/EE/KdjJnoJAlY7afzzuuUXyDvsNoYvX42y7YnB/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-cube-hypercube-2002-lk21-d21.jpg",Cube: Hypercube (2002)
-https://ss100.nolashare.com/stream/A/CD/JrQnVoqtebXwrYrcpSIhTyefYizvPQV1rVe/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-v-h-s-85-2023-lk21-d21.jpg",V/H/S/85 (2023)
-https://ss86.salafile.com/stream/7/34/4pPaWROFfLPPdRxbR7gRspYx0gDW4kDSckX/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/06/film-new-sassy-girl-2016.jpg",My New Sassy Girl (Yeob-gi-jeok-in geu-nyeo 2) (2016)
-https://ss280.abcnewza.com/stream/F/3D/9atba3cKCeP5ohHAou5Q6ZjFy26H8jXmw1q/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-ijogbon-2023-lk21-d21.jpg",Ijogbon (2023)
-https://ss242.sunionet.com/stream/7/48/vkH87Hb1PL72d7jwvkCuI8hsEYGt9EQeSW7/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-the-conference-2023-lk21-d21.jpg",The Conference (2023)
-https://ss306.montfile.com/stream/9/32/5yyQu0jPolp9UnTQn8Vubp018z1nktZ5Zpw/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg",Transformers: Rise of the Beasts (2023)
-https://ss83.ahotnews.com/stream/D/C5/NnKOtaBEHBHH6sv1puD3SScuxcfvNSPN6cJ/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-elevator-game-2023-lk21-d21.jpg",Elevator Game (2023)
-https://ss161.netbilu.com/stream/1/A7/XvRMKTpa0P49JNKydXu0NehbCX7DSFRU8fr/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-angela-2023-lk21-d21.jpg",Angela (2023)
-https://ss39.uptshare.com/stream/D/B9/MVTewOuaGPVmJqLCyku7XgV26P17KBRmC1j/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-the-burial-2023-lk21-d21.jpg",The Burial (2023)
-https://ss35.coopfilez.com/stream/0/DB/rGN3eBjItbe6pkiESGqIwbDdQguDL9IKME3/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-dark-harvest-2023-lk21-d21.jpg",Dark Harvest (2023)
-https://ss322.mundiiz.com/stream/9/8E/Ku0QVpRZq4eGdgttbArMXXPyW7uSPxP21Uf/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-hider-in-my-house-2022-lk21-d21.jpg",Hider in My House (2022)
-https://ss320.bigbaznet.com/stream/8/32/xvr7nZO8If7qDhE2DF28MlurZgxZt9Oadlz/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-the-astral-woods-2023-lk21-d21.jpg",The Astral Woods (2023)
-https://ss81.thibogu.com/stream/D/89/RecMYXMbcvZyKK9euUOz7oas6do3zUjiQiu/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-irati-2023-lk21-d21.jpg",Irati (2023)
-https://ss320.bigbaznet.com/stream/C/E8/jg6AfIfbqdTDvq38YSCB7kvXPE5eQkqKeNq/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-the-sound-of-summer-2022-lk21-d21.jpg",The Sound of Summer (2022)
-https://ss334.macquen.com/stream/6/99/Yd8LUl9nypzpWo4J24IKCgBwYDuCLEIVuoL/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-a-southern-haunting-2023-lk21-d21.jpg",A Southern Haunting (2023)
-https://ss331.techwodo.con/stream/5/22/ynFCeuC07DxPrUwEJ2VCHnATZM7F7UdY57g/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-once-upon-a-star-2023-lk21-d21.jpg",Once Upon a Star (2023)
-https://ss104.muniade.com/stream/5/AD/VdIHzIQJMRTRuloBSwVfs9PklCgqQwDtPeD/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-it-lives-inside-2023-lk21-d21.jpg",It Lives Inside (2023)
-https://ss319.kataznet.com/stream/F/C9/wJeDTq0ucKgkW0XU7iQiVkKefhxznUKMIXm/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-awareness-2023-lk21-d21.jpg",Awareness (2023)
-https://ss330.eztshare.com/stream/0/87/AEMRelJDCKo3nuapC027DDZ8HJydNvtgW42/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-the-jester-2023-lk21-d21.jpg",The Jester (2023)
-https://ss312.tiurnews.com/stream/5/10/GFvbV8IWwOuCWkCzwSPl0gdPkqL2xhwBnk8/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/07/film-mission-impossible-dead-reckoning-part-one-2023-lk21-d21.jpg",Mission: Impossible – Dead Reckoning Part One (2023)
-https://ss37.flatboxs.com/stream/F/0D/vROnU58UjshS9DWPoxGg456IUGqnBCiVPd3/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-desperation-road-2023-lk21-d21.jpg",Desperation Road (2023)
-https://ss304.filesfarm.com/stream/1/16/GfqL0LFxYz9F1FHrubNEXOIXnx5YT1HrXcN/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2017/01/film-action-jackson-1988.jpg",Action Jackson (1988)
-https://ss346.skyofile.com/stream/9/C1/cdHNYbNO4Ps658npbMUFstibkKLdqfnwnxl/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/02/film-delete-history-2020-lk21-d21.jpg",Delete History (2020)
-https://ss346.skyofile.com/stream/A/4D/sRm33NBz0KWdLjMoLoL1Hm9635zky9AGkss/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-special-agent-2020-lk21-d21.jpg",Special Agent (2020)
-https://ss362.tinusoud.com/stream/5/77/1T5FHWSHqTOHrYHqc3yxJsQqmQaReTc9ta7/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-baang-2023-lk21-d21.jpg",Baang (2023)
-https://ss318.hugozfile.com/stream/C/53/6p5eTlNEMiOOa56pOtrSnedzgeIUkvGnJbA/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/10/film-orca-2023-lk21-d21.jpg",Orca (2023)
-https://ss359.sanyno.com/stream/F/BF/E6HGmDI5yzMCXe9qANVcFYCskViKylmdaLW/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-gadar-2-2023-lk21-d21.jpg",Gadar 2 (2023)
-https://ss359.sanyno.com/stream/0/B4/w27wIrRBevsfb6Q7sOOoMzOsQlpp8yPoiwi/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-final-summer-2022-lk21-d21.jpg",Final Summer (2022)
-https://ss360.saoponew.com/stream/0/E2/0M4EN2BTB8B1KNK0RQqbCArAqjW3MjNA9rm/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-archana-31-not-out-2022-lk21-d21.jpg",Archana 31 Not Out (2022)
-https://ss333.gomutrain.com/stream/A/82/knvPRUcHRQCW0bOpfeqpJuKRo7rYXAU03u2/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-1943-2023-lk21-d21.jpg",1943 (2023)
-https://ss253.kinuenet.com/stream/2/50/Eg3rzEpzNHDeqk6lO5nLICdpEyLySthdaq4/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-omg-2-2023-lk21-d21.jpg",OMG 2 (2023)
-https://ss350.maybtuon.com/stream/6/CC/wkqFzfSH90iINZmo4PcaEuvcqtGVnQ9aRrV/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-khufiya-2023-lk21-d21.jpg",Khufiya (2023)
-https://ss352.ructop.com/stream/0/DD/0grN8UPk9BtpR2jrPgWkBOqMHZgNYmTh9EW/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-the-janes-2022-lk21-d21.jpg",The Janes (2022)
-https://ss21.dimuga.com/stream/D/42/PKyyRV9Vq9HURakahNgC9Dc1gv65TVUo1t7/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-pet-sematary-bloodlines-2023-lk21-d21.jpg",Pet Sematary: Bloodlines (2023)
-https://ss344.croissanty.com/stream/C/F3/yjnTpWlN6XFYUj9CosJXvLKn7Gw0tYVxIZS/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/09/film-dont-look-away-2023-lk21-d21.jpg",Don’t Look Away (2023)
-https://ss55.monobep.com/stream/4/29/qFhLuas7sXruin0UIvP7lBWvbfQtLntnsNa/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/10/film-secret-lives-of-housewives-2022-lk21-d21.jpg",Secret Lives of Housewives (2022)
-https://ss360.saoponew.com/stream/B/38/DT2bzmHxTMTfXSVA5G9YZlZxj07X9nQbRUG/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-totally-killer-2023-lk21-d21.jpg",Totally Killer (2023)
-https://ss35.coopfilez.com/stream/7/55/BelKRp3qbzyvgQhvNQzHiM24Nl8Qv680tWD/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/10/film-ballerina-2023-lk21-d21.jpg",Ballerina (2023)
-https://ss41.bendevu.com/stream/C/49/uUs6KZP1evVXB7Sc5MBvbtQ2HTFPNhIxLzK/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-manhole-2023-lk21-d21.jpg",#Manhole (2023)
-https://ss79.nowseene.com/stream/B/C0/E9WhuQb1R5xbS8OhYHdInzDQeWiN7isEfdj/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-muzzle-2023-lk21-d21.jpg",Muzzle (2023)
-https://ss85.leopafile.com/stream/B/60/CqeTZyFiBNMMQLpcWbP8zKYlhJJ8GtPxgRU/master.m3u8|referer=https://emturbovid.com/ 
-#EXTINF:-1 type="FILM" group-title="LK 21" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/10/film-haunted-mansion-2023-lk21-d21.jpg",Haunted Mansion (2023)
-https://ss333.gomutrain.com/stream/7/B2/ybE0sEOSTBlmtSXazjXH9ENGrWiPH3ZoMhr/master.m3u8|referer=https://emturbovid.com/
+#EXTINF:-1 tvg-id="" tvg-name="TV3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/400px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia", TV3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TV6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia", TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=5|Referer="https://rtm-player.glueapi.io/"
 
+#EXTINF:-1 tvg-id="" tvg-name="TV9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/200px-TV9_Malaysia_Logo_2021.png" group-title="Malaysia", TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/220px-Okey_RTM.png" group-title="Malaysia", TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist.m3u8?id=1|Referer="https://rtmklik.rtm.gov.my"
+#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=5|Referer="https://rtm-player.glueapi.io/"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="Malaysia", Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer="https://rtmklik.rtm.gov.my"
+#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=5|Referer="https://rtm-player.glueapi.io/"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png" group-title="Malaysia", Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5|Referer="https://rtm-player.glueapi.io/"
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="TV1" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="" group-title="Malaysia",TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" group-title="Malaysia",TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
+https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_/e380f303-5ebf-4c5a-b924-bc346b428115/3.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 group-title="Malaysia" tvg-id=""  tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
+
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="8TV" group-title="Malaysia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_/6e608b26-9d1c-46f2-ac91-d0f1fa6ba0de/3.m3u8
+
+#EXTINF:-1 tvg-id="TV9" group-title="Malaysia" tvg-name="TV9" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9
+https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_/a378d54a-0dae-4df0-b8aa-ed07a805f019/3.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png",Inspirasi
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+#EXTINF:-1  tvg-id="" group-title="Malaysia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.ibb.co/Zm25L8D/Unifi-Sensasi.png",Sensasi
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live30.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+#EXTINF:-1 tvg-id="DidikTVKPM" group-title="Malaysia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+https://aqfadtv.xyz/live/didiktvkpm/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 thv-id="BernamaTV" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.bernama.com/tv/img/bernama.png" group-title="Malaysia",Bernama TV
+https://ythls.onrender.com/video/dHb-raVsofo.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="AstroAwani" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+<============================== Brunei ======================================>
+
+#EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+<=============================== Mediacorp Singapore ========================================>
+
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="SINGAPORE",Channel 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://i.imgur.com/7rrvBP9.png" group-title="SINGAPORE",Channel 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://i.imgur.com/FHso0Mp.png" group-title="SINGAPORE",Channel U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="SINGAPORE",Suria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
+https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714418%27&EntityType=%27Item%27&EntityId=%2797073%27&Width=300&Height=78&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 <style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC90dm5pZC53YXBnZW0uY29tXC9hc3dhamEubTN1OCIsImxvZ2dlZF9pbiI6ZmFsc2UsImRvbWFpbiI6InR2bmlkLndhcGdlbS5jb20iLCJwb3NpdGlvbiI6eyJhYnNvbHV0ZSI6ImZpeGVkIn19"></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1712070481" style="z-index:999999;z-index:999999999;"><span id="a1712070481"><a href="http://xtgem.com/click?p=forums_catalog_web&amp;u=__urlaHR0cDovL3h0Z2VtLmNvbS9mb3J1bXM/YWQ9MQ==&amp;s=tvnid.wapgem.com&amp;t=KhscHR8eGAAFCgIZAgMADg0ODw4LCwl5dA==&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=dHZuaWQud2FwZ2VtLmNvbS9hc3dhamEubTN1OA==&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank"><img src="http://xtgem.com/images/forum/xtgem-forums.jpg" alt="XtGem Forum catalog"></a></span>        <style type="text/css">
             #st1712070481 *
             {
