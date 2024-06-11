@@ -723,11 +723,14 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/70
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/doraemon.png" group-title="KIDS",DORAEMON
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/dreamworks.png" group-title=""KIDS",DREAMWORS
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/dreamworks.png" group-title="KIDS",DREAMWORSK
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/95
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/cartoon_network.png" group-title=""KIDS",CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/cartoon_network.png" group-title="KIDS",CARTOON NETWORK HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/74
-#EXTINF:-1 group-title=""KIDS" tvg-id="horee.id" tvg-logo="https://hometv.pw/logo/kids2/horee.png",Horee!
+#EXTINF:-1 group-title="KIDS" tvg-id="horee.id" tvg-logo="https://hometv.pw/logo/kids2/horee.png",Horee!
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/72
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
