@@ -766,48 +766,48 @@ https://melon-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="" tvg-logo="https://www.visionplus.id/images/repository/010/50010-SNAPSHOT-m.png" group-title="KIDS",MyKids 
 https://melon-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/animax.png" group-title=""KIDS",ANIMAX Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/animax.png" group-title="KIDS",ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/aniplus.png" group-title=""KIDS",ANIPLUS
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/aniplus.png" group-title="KIDS",ANIPLUS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/75
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/babytv.png" group-title=""KIDS",BABY TV Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/babytv.png" group-title="KIDS",BABY TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/babyshark.png" group-title=""KIDS",BABY SHARK Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/babyshark.png" group-title="KIDS",BABY SHARK
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/spacetoon.png" group-title=""KIDS",SPACETOON Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/spacetoon.png" group-title="KIDS",SPACETOON 
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/boonie_cube.png" group-title=""KIDS",BOONIE CUBS Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/boonie_cube.png" group-title="KIDS",BOONIE CUBS 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3507
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/camp_spoopy.png" group-title=""KIDS",CAMP SPOOPY Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/camp_spoopy.png" group-title="KIDS",CAMP SPOOPY 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=264
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/smurf2.png" group-title=""KIDS",SMURFS Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/smurf2.png" group-title="KIDS",SMURFS
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/toon_goggles.png" group-title=""KIDS", TOON GOOGLES Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/toon_goggles.png" group-title="KIDS", TOON GOOGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/kidsflix.png" group-title=""KIDS",KIDS FLIX Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/kidsflix.png" group-title="KIDS",KIDS FLIX 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/squad.png" group-title=""KIDS",SQUAD Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/squad.png" group-title="KIDS",SQUAD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/circus.png" group-title=""KIDS",CARTOON CIRCUS Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/circus.png" group-title="KIDS",CARTOON CIRCUS
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/sparkle_power.png" group-title=""KIDS",SPARKLE POWER Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/sparkle_power.png" group-title="KIDS",SPARKLE POWER
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=35
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/on_nom.png" group-title=""KIDS",ON NOM Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/on_nom.png" group-title="KIDS",ON NOM 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/gross_out.png" group-title=""KIDS",GROSS OUT Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/gross_out.png" group-title="KIDS",GROSS OUT
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/toon_googles_jr.png" group-title=""KIDS",TOON GOOGLES JR Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/toon_googles_jr.png" group-title="KIDS",TOON GOOGLES JR
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 
 ==================================================================================KNOWLEDGE ===============================================================
@@ -1290,7 +1290,7 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11937
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11938
 
-#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="ASTRO SPORTS",beIN SPORTS 3 MY
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="SPORTS",beIN SPORTS 3 MY
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11939
 
@@ -1389,7 +1389,7 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-016/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+#https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-016/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="Dazn Sports",DAZN F1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1439,7 +1439,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-057/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+#https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-057/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thZVscZ/elevensports5.png" group-title="Dazn Sports",ELEVEN 5 PT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -1465,7 +1465,7 @@ https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-057/stream.mpd?p=web&daz
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-049/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cDqY46x/dazn-eleven-pro-1.png" group-title="Dazn Sports",DAZN ELEVEN PRO 1 FR 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDqY46x/dazn-eleven-pro-1.png" group-title="SPORTS",DAZN ELEVEN PRO 1 FR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -1540,7 +1540,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-046/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+#https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jyy9jw5qg2fo1t2oucwjqzi6r_image-header_pDach_1690558178000" group-title="SPORTS", DAZN FAST+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
