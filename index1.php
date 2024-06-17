@@ -1040,10 +1040,10 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/67
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/70
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/kids2/doraemon.png" group-title="KIDS",DORAEMON
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
+#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/kids2/dreamworks.png" group-title="KIDS",DREAMWORSK
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/95
+#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/95
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/cartoon_network.png" group-title="KIDS",CARTOON NETWORK HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/74
@@ -1832,7 +1832,7 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-046/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1e8qv74kj9ru71k69jmgy26gow_image-header_pRow_1690455045000" group-title="Dazn Sports", DAZN COMBAT
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1e8qv74kj9ru71k69jmgy26gow_image-header_pRow_1690455045000" group-title="SPORTS", DAZN COMBAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
