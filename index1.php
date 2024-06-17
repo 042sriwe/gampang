@@ -1555,6 +1555,12 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/80
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/lifestyle/lifestyle_fashion.png" group-title="LIFESTYLE", Kaloopy TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/lifestyle/lifestyle_fashion.png" group-title="LIFESTYLE", Jenny Live
+https://5ee7c2b857b7f.streamlock.net/jennylive/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/lifestyle/lifestyle_fashion.png" group-title="LIFESTYLE", MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
 =============================================================================SPORTS ======================================================================
 
