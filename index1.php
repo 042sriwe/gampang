@@ -497,7 +497,9 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="Copa America",Piala Amerika ch4
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-
+#EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="Copa America",Piala Amerika
+#EXTVLCOPT:http-user-agent=Televizo (Linux; Android 11)
+https://tevi.my.id/insiar.m3u8|referer=https://anarchy-stream.com/
 
 #EXTINF:-1 tvg-id="RAI1" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇹
 #EXTGRP: EURO2024
