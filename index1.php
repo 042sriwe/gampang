@@ -487,6 +487,16 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
 
+==================================================================itil==================================================================
+
+#EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="Copa America",Piala Amerika
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="Copa America",Piala Amerika ch2
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="Copa America",Piala Amerika ch3
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="Copa America",Piala Amerika ch4
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 
 #EXTINF:-1 tvg-id="RAI1" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇹
@@ -874,7 +884,7 @@ https://s.id/sctvHD_shareext-xs
 http://stb.mbahnunungonline.net/live/m3u8/id/2b8fc230e8f847b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XHn6JG6.png" group-title="INDONESIA", Trans 7 1
-https://arjuna.trans7.co.id/Trans7-L1v3stream/index.fmp4.m3u8 
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd|referrer=https://www.indihometv.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XHn6JG6.png" group-title="INDONESIA", Trans 7 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
