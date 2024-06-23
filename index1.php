@@ -850,7 +850,10 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
 #https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ligabri1.m3u8
 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="INDONESIA", MNCTV 1
-https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="INDONESIA", MNCTV 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
