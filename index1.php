@@ -2225,57 +2225,63 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-033/stream.mpd
 https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-025/stream.mpd
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 2
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8|origin=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 3
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8|origin=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 4
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8|origin=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 5
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8|origin=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.ibb.co/jDMKd9S/ssm.png" group-title="SPORTS",SuperSports Motorsport
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|origin=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/87BG427/sspl.png" group-title="SPORTS",SuperSports Premier League
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8|origin=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8|origin=https://claplivehdplay.ru/
 ##http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8|origin=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8|origin=https://claplivehdplay.ru/
 #https://bq32.short.gy/offline_vaathala?channelId=286&uid=4944&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Football
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8|origin=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8|origin=https://claplivehdplay.ru/
 #https://bq32.short.gy/offline_vaathala?channelId=281&uid=4944&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Racing
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8|origin=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="SPORTS", H premier 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
