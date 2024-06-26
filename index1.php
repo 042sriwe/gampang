@@ -2188,22 +2188,27 @@ https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS",ASSP 1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8
 #https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_shareext@assp1.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="SPORTS",ASSP 2
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8
 #https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_shareext@assp2.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="SPORTS",ASSP 3
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8
 htt#ps://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_shareext@assp3.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS",ASSP 4
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
 #https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_shareext@assp4.ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="SPORTS",MU TV
